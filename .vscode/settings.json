@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "operation_llc.h": "c",
+        "time.h": "c"
+    }
+}
